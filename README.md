@@ -51,20 +51,20 @@ Restrict access without a valid token AND a specific capability.
 - Heroku app link:
 
 
-
+https://main-bearer-auth.herokuapp.com/
 
 
 - GitHub actions link:
 
 
-
-
+https://github.com/Batoolayyad/auth-api/actions
 
 
 
 - Pull Rrequest link:
 
 
+https://github.com/Batoolayyad/auth-api/pull/2
 
 
 
