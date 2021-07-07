@@ -52,7 +52,7 @@ Restrict access without a valid token AND a specific capability.
 
 
 https://main-bearer-auth.herokuapp.com/
-
+https://main-bearer-auth.herokuapp.com/
 
 - GitHub actions link:
 
