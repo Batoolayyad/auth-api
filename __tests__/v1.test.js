@@ -7,7 +7,7 @@ describe('unauthenticated routes', () => {
     let id;
         test('post method', async () => {
             const response = await request.post('/api/v1/food').send({
-                name:"tomato",
+                name:"watermelon",
                 calories:1500,
                 type:"fruit"
             });
