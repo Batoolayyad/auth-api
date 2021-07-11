@@ -5,11 +5,11 @@ const bcrypt = require('bcrypt');
 require('dotenv').config();
 describe('unauthenticated routes', () => {
     let id;
-        test('post method', async () => {
+        test('post', async () => {
             const response = await request.post('/api/v1/food').send({
-                name:"watermelon",
+                name:"tomato",
                 calories:1500,
-                type:"fruit"
+                type:"FRUIT"
             });
             id = response.body._id;
             expect(response.status).toBe(201);
