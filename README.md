@@ -51,8 +51,8 @@ Restrict access without a valid token AND a specific capability.
 - Heroku app link:
 
 
-https://main-bearer-auth.herokuapp.com/
-https://main-bearer-auth.herokuapp.com/
+https://main-auth-api.herokuapp.com
+
 
 - GitHub actions link:
 
