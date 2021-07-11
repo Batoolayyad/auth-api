@@ -9,9 +9,7 @@
         "test-watch": "jest --watchAll",
         "test": "jest --coverage --verbose"
     },
-    "jest": {
-        "testEnvironment": "node"
-    },
+   
     "keywords": [],
     "author": "",
     "license": "ISC",
